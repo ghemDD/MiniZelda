@@ -6,6 +6,8 @@
 * Make sure to mark the res folder as resource root if needed
 * Run
 
+![alt text](https://github.com/ghemDD/MiniZelda/blob/main/MiniZelda/minizelda_1.PNG)
+
 ## Synopsis
 
 The Dark Lord decided to take control of the village, and placed monsters all over the place, we set out to stop him in his tracks and to free the castle from his evil reign.
@@ -50,6 +52,6 @@ Once the Dark Lord is beaten, he will drop a key allowing access to the Castle, 
 Once in Chateau, you will see a portal that takes you back home to Ferme (you need to go dark mode to use it), as well as a chest containing a MAX_POTION that you can use to restore all your HP.
 
 Authors:   
-Tanguy Marbot  
-Nael Ouerghemi  
+**Tanguy Marbot**  
+**Nael Ouerghemi**  
 December 2019  
