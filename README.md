@@ -1,11 +1,5 @@
 # MiniZelda (CS-107)
 
-## How to start
-* Clone the repo
-* Open it in your favourite IDE
-* Make sure to mark the res folder as resource root if needed
-* Run
-
 ![alt text](https://github.com/ghemDD/MiniZelda/blob/main/MiniZelda/minizelda_1.PNG)
 
 ## Synopsis
